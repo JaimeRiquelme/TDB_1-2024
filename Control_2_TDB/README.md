@@ -31,7 +31,7 @@ Para ejecutar el proyecto se deben seguir los siguientes pasos:
 
 ## 1. Clonar el repositorio
 
-git clone https://github.com/FernandoSolisPaz/Grupo5-Control2-TBD
+git clone https://github.com/JaimeRiquelme/TDB_1-2024/tree/main/Control_2_TDB
 
 ## 2. Instalación de IntelliJ IDEA / Visual Studio Code
 
